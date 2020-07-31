@@ -1,0 +1,11 @@
+{
+  "name": "mytoken-gkcjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "ora": "^1.3.0",
+    "gkc_js": "git+https://github.com/gkcproject/gkc_js.git"
+  }
+}
